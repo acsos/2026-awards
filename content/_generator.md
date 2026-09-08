@@ -116,10 +116,18 @@ style="width:35em" />
 
 ---
 
+{{< slide background-image="awards/prize-4.png" background-size="contain" background-position="center" background-color="#ffffff" >}}
+
+---
+
 <img src="animations/acsos-logo-2026.svg"
 style="width:35em" />
 
 # **Best artifact**
+
+---
+
+{{< slide background-image="awards/prize-3.png" background-size="contain" background-position="center" background-color="#ffffff" >}}
 
 ---
 
@@ -130,10 +138,18 @@ style="width:35em" />
 
 ---
 
+{{< slide background-image="awards/prize-2.png" background-size="contain" background-position="center" background-color="#ffffff" >}}
+
+---
+
 <img src="animations/acsos-logo-2026.svg"
 style="width:35em" />
 
 # _**Karsten Schwan** best paper award_
+
+---
+
+{{< slide background-image="awards/prize-1.png" background-size="contain" background-position="center" background-color="#ffffff" >}}
 
 ---
 
