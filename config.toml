@@ -1,6 +1,6 @@
-baseURL = "https://acsos.github.io/2026-opening"
+baseURL = "https://acsos.github.io/2026-awards"
 languageCode = "en-us"
-title = "ACSOS 2026, Opening"
+title = "ACSOS 2026, Awards Ceremony"
 disableKinds = ["sitemap", "RSS"]
 theme = "reveal-hugo"
 publishDir = "build"
@@ -67,5 +67,4 @@ enableSourceMap = true
   [security.http]
     methods = ['(?i)GET|POST']
     urls = ['.*']
-
 
