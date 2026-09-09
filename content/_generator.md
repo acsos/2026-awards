@@ -107,14 +107,23 @@ style="width:35em" />
 
 # Thank you, Cesena!
 
-## Giorgia Macrelli
+## **Giorgia Macrelli**
 ### Assessora alle politiche giovanili e delle differenze, Università e ricerca
+### Deputy mayor for University and Reserach, Youth Policies and Eu projects
+
+### Head of the *Cesena 4 Talents* project
+
+https://www.cesena4talents.it/ 
 
 ---
 
 {{< slide background-iframe="animations/ribbons.html" background-interactive="true" >}}
 
 # Thank you, University of Bologna / Cesena Campus!
+
+## **Mirko Viroli**
+### Full Professor, Department of Computer Science and Engineering
+### President of the Cesena Campus Board
 
 ---
 
